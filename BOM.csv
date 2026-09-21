@@ -1,0 +1,24 @@
+Item Name,Qty,Price (total) (USD),Item link,Notes
+Seeed XIAO RP2040,1,$19.32,https://www.amazon.ca/dp/B0FB5BS2NX?psc=1&ref_=cm_sw_r_cp_ud_ct_R7M1Z3YGXBJXF9ZXZQDJ_10,Main microcontroller
+1N4148 through-hole diodes,4,$1.50,https://www.amazon.ca/dp/B099PPQ7YN?psc=1&ref_=cm_sw_r_cp_ud_ct_R7M1Z3YGXBJXF9ZXZQDJ_9,Button/switch matrix
+MX-style switches,4,$5.99,https://www.amazon.ca/dp/B0HJFQYWR2?psc=1&ref_=cm_sw_r_cp_ud_ct_R7M1Z3YGXBJXF9ZXZQDJ_8,Main input buttons
+EC11E rotary encoder with switch,1,$8.79,https://www.amazon.ca/dp/B0GJS5SQPF?psc=1&ref_=cm_sw_r_cp_ud_ct_R7M1Z3YGXBJXF9ZXZQDJ_7,-
+0.91 inch OLED display,1,$6.67,https://www.amazon.ca/dp/B0GWPY5LMY?psc=1&ref_=cm_sw_r_cp_ud_ct_R7M1Z3YGXBJXF9ZXZQDJ_5,GND-VCC-SCL-SDA pin order
+White blank DSA keycaps,4,$12.50,https://www.amazon.ca/dp/B0BWDR7LQQ?psc=1&ref_=cm_sw_r_cp_ud_ct_R7M1Z3YGXBJXF9ZXZQDJ_4,Keycaps for MX switches
+M3x16mm screws,4,$8.59,https://www.amazon.ca/dp/B0DDNJXLF3?psc=1&ref_=cm_sw_r_cp_ud_ct_R7M1Z3YGXBJXF9ZXZQDJ_3,Case assembly
+M3x5mmx4mm heat-set inserts,4,$8.49,https://www.amazon.ca/dp/B0BYVLPG4R?psc=1&ref_=cm_sw_r_cp_ud_ct_R7M1Z3YGXBJXF9ZXZQDJ_1,Case assembly
+$10 JLCPCB credit,1,$10.00,,PCB manufacturing
+LED,1,$0.00,,- supplied by me
+Resistor,1,$0.00,,- supplied by me
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Total Price (USD):,$81.85,,,
+,,,,
+"However, if you guys have a hackpad kit laying around, i will gladly take that instead of all of this list of materials,
+ since its cheaper for you and I dont require all of these extra parts for my project. ",,,,
