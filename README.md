@@ -1,4 +1,4 @@
-<img width="1171" height="869" alt="pcb ctrl" src="https://github.com/user-attachments/assets/2bf69843-6900-4f06-9400-bb481facef3b" />
+<img width="1408" height="836" alt="iso all2" src="https://github.com/user-attachments/assets/0256e4ad-3018-49b3-a669-decc6f51a243" />
 # Custom Satellite Control Interface
 
 A custom PCB-based controller designed as a physical interface for controlling software on a computer. It can be used as a general-purpose control pad, with a focus on eventually controlling a **satellite antenna rotator**.
@@ -11,6 +11,8 @@ A custom PCB-based controller designed as a physical interface for controlling s
 * Seeed XIAO RP2040
 * Custom KiCad PCB
 * 3D-printed Onshape enclosure
+* 
+<img width="585.5" height="434.5" alt="pcb ctrl" src="https://github.com/user-attachments/assets/2bf69843-6900-4f06-9400-bb481facef3b" />
 
 ## How It Works
 
