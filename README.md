@@ -1,3 +1,4 @@
+<img width="1171" height="869" alt="pcb ctrl" src="https://github.com/user-attachments/assets/2bf69843-6900-4f06-9400-bb481facef3b" />
 # Custom Satellite Control Interface
 
 A custom PCB-based controller designed as a physical interface for controlling software on a computer. It can be used as a general-purpose control pad, with a focus on eventually controlling a **satellite antenna rotator**.
