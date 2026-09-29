@@ -1,14 +1,13 @@
-[BOM.csv](https://github.com/user-attachments/files/32779077/BOM.csv)<img width="1408" height="836" alt="iso all2" src="https://github.com/user-attachments/assets/0256e4ad-3018-49b3-a669-decc6f51a243" />
-
+<img width="1408" height="836" alt="iso all2" src="https://github.com/user-attachments/assets/a9346e65-edfa-488a-89df-ad6742d2070a" />
 
 ## *$FOR THE STARDANCE REVIEWERS$*
-- In case you haven't read it through my comments already , my BOM.csv is irrelevant if you guys can **ship me a HackPad kit** +(the PCB grant). I need the exact same components as the components in the kit, so sending me my grant isn't necessary(Either way its the same components bought individually which just costs more, so its a win win for both of us if you ship a HackPad kit). I would submit this project as a hackpad, but previous reviewers have been agaisnt that. Thank you for your understanding.
+- In case you haven't read it through my comments already , my BOM.csv is irrelevant if you guys can **ship me a HackPad kit** +(the PCB grant). I need the exact same components as the components in the kit, so sending me my grant isn't necessary (Either way my BOM contains the same components bought individually (which just costs more than your bulk), so its a win-win for both of us if you ship a **HackPad kit**. Note: I would submit this project as a hackpad, but previous reviewers have been agaisnt that. Thank you for your understanding.
 
 
 ## Custom Satellite Control Interface
 A custom PCB-based controller designed as a physical interface for controlling software on a computer. It can be used as a general-purpose control pad, with a focus on eventually controlling a **satellite antenna rotator** (which is another project I am building).
 
-## Components and buidling materials.
+## Components and building materials.
 * 4× MX-style buttons
 * EC11E rotary encoder with push button
 * 0.91" OLED display
