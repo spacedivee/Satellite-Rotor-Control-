@@ -39,14 +39,14 @@ of doing things since I get to actively troubleshoot issues. I hope yall feel th
 
 | Item | Component Name | Qty | Price (USD) | Notes |
 | :---: | :--- | :---: | :---: | :--- |
-| 1 | [Seeed XIAO RP2040](https://amazon.ca) | 1 | $19.32 | Main microcontroller |
-| 2 | [1N4148 through-hole diodes](https://amazon.ca) | 4 | $1.50 | Button/switch matrix |
-| 3 | [MX-style switches](https://amazon.ca) | 4 | $5.99 | Main input buttons |
-| 4 | [EC11E rotary encoder with switch](https://amazon.ca) | 1 | $8.79 | - |
-| 5 | [0.91 inch OLED display](https://amazon.ca) | 1 | $6.67 | GND-VCC-SCL-SDA pin order |
-| 6 | [White blank DSA keycaps](https://amazon.ca) | 4 | $12.50 | Keycaps for MX switches |
-| 7 | [M3x16mm screws](https://amazon.ca) | 4 | $8.59 | Case assembly |
-| 8 | [M3x5mmx4mm heat-set inserts](https://amazon.ca) | 4 | $8.49 | Case assembly |
+| 1 | [Seeed XIAO RP2040](https://www.amazon.ca/dp/B0FB5BS2NX?psc=1&ref_=cm_sw_r_cp_ud_ct_R7M1Z3YGXBJXF9ZXZQDJ_10) | 1 | $19.32 | Main microcontroller |
+| 2 | [1N4148 through-hole diodes](https://www.amazon.ca/dp/B099PPQ7YN?psc=1&ref_=cm_sw_r_cp_ud_ct_R7M1Z3YGXBJXF9ZXZQDJ_9) | 4 | $1.50 | Button/switch matrix |
+| 3 | [MX-style switches](https://www.amazon.ca/dp/B0HJFQYWR2?psc=1&ref_=cm_sw_r_cp_ud_ct_R7M1Z3YGXBJXF9ZXZQDJ_8) | 4 | $5.99 | Main input buttons |
+| 4 | [EC11E rotary encoder with switch](https://www.amazon.ca/dp/B0GJS5SQPF?psc=1&ref_=cm_sw_r_cp_ud_ct_R7M1Z3YGXBJXF9ZXZQDJ_7) | 1 | $8.79 | - |
+| 5 | [0.91 inch OLED display](https://www.amazon.ca/dp/B0GWPY5LMY?psc=1&ref_=cm_sw_r_cp_ud_ct_R7M1Z3YGXBJXF9ZXZQDJ_5) | 1 | $6.67 | GND-VCC-SCL-SDA pin order |
+| 6 | [White blank DSA keycaps](https://www.amazon.ca/dp/B0BWDR7LQQ?psc=1&ref_=cm_sw_r_cp_ud_ct_R7M1Z3YGXBJXF9ZXZQDJ_4) | 4 | $12.50 | Keycaps for MX switches |
+| 7 | [M3x16mm screws](https://www.amazon.ca/dp/B0DDNJXLF3?psc=1&ref_=cm_sw_r_cp_ud_ct_R7M1Z3YGXBJXF9ZXZQDJ_3) | 4 | $8.59 | Case assembly |
+| 8 | [M3x5mmx4mm heat-set inserts](https://www.amazon.ca/dp/B0BYVLPG4R?psc=1&ref_=cm_sw_r_cp_ud_ct_R7M1Z3YGXBJXF9ZXZQDJ_1) | 4 | $8.49 | Case assembly |
 | 9 | $10 JLCPCB credit | 1 | $10.00 | PCB manufacturing |
 | 10 | LED | 1 | $0.00 | - supplied by me |
 | 11 | Resistor | 1 | $0.00 | - supplied by me |
