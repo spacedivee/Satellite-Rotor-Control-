@@ -23,7 +23,7 @@ A custom PCB-based controller designed as a physical interface for controlling s
 The XIAO RP2040 reads the buttons and rotary encoder and sends their inputs to software running on a computer. The OLED provides feedback to the user. In my case, the OLED will display Azimuth and Elevation as they are being changed so the antenna adjustmenet can be simplified. The Encoder will be used to manually adjust the increment of the motors, such that each press will be greater or smaller, depending on the input. 
 All of the information will then be sent to the XIAO, which will then sent it to my computer as keystroke data (my current method), which my antenna rotator software will then acknowledge. 
 
-## Tools
+## Tools (if you were interested..?)
 
 * **KiCad** — PCB design
 * **Onshape** — enclosure design
