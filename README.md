@@ -50,7 +50,8 @@ of doing things since I get to actively troubleshoot issues. I hope yall feel th
 | 9 | $10 JLCPCB credit | 1 | $10.00 | PCB manufacturing |
 | 10 | LED | 1 | $0.00 | - supplied by me |
 | 11 | Resistor | 1 | $0.00 | - supplied by me |
-| | **Total Estimated Cost:** | | **$81.85** | |
+| 12 | Shipping | 1 | $4.20 |
+| | **Total Estimated Cost:** | | **$86.05** | |
 
 > **Note:** If you have an existing hackpad kit available, I would happily accept that as an alternative. It may be more cost-effective and prevents acquiring unnecessary duplicate components.
 
